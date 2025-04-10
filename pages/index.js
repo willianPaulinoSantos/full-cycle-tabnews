@@ -3,7 +3,7 @@ function Home() {
         <div>
             <h1>Oi Vidinha</h1>
             <p>
-                This is the home page.
+                This is test the home page.
             </p>
         </div>
     )
